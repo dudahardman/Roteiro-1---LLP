@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575231740 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 3\main.cpp
+	<iostream>
+	"Empregado.h"
+
+1575231759 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 3\include\empregado.h
+	<iostream>
+
+1575231759 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 3\src\empregado.cpp
+	"Empregado.h"
+	<iostream>
+
