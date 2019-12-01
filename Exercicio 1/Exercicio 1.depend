@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575221499 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 1\main.cpp
+	<iostream>
+	"Data.h"
+
+1575221428 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 1\include\data.h
+
+1575222156 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 1\src\data.cpp
+	"Data.h"
+
