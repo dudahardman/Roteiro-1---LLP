@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575225776 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 2\src\invoice.cpp
+	"Invoice.h"
+
+1575225804 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 2\include\invoice.h
+	<iostream>
+
+1575225716 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 2\main.cpp
+	<iostream>
+	"Invoice.h"
+
