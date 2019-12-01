@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1575244204 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 5\main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleDeGastos.h"
+
+1575244204 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 5\include\despesa.h
+	<iostream>
+
+1575244204 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 5\include\controledegastos.h
+	"Despesa.h"
+	<iostream>
+
+1575244204 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 5\src\despesa.cpp
+	"Despesa.h"
+	<iostream>
+
