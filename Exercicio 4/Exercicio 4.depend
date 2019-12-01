@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575241055 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 4\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1575236921 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 4\include\pessoa.h
+	<iostream>
+
+1575238941 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 4\src\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+
