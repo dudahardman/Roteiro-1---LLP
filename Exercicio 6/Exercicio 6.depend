@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575245779 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 6\src\pagamento.cpp
+	"Pagamento.h"
+	<iostream>
+
+1575245779 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 6\include\pagamento.h
+	<iostream>
+
+1575246537 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 6\main.cpp
+	<iostream>
+	"Pagamento.h"
+	"ControleDePagamentos.h"
+
+1575245779 c:\users\duda\desktop\p2 ec duda\llp\roteiro 1\exercicio 6\include\controledepagamentos.h
+	"Pagamento.h"
+
